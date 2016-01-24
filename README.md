@@ -20,5 +20,6 @@ Example: http://pwmckenna.github.io/react-starter-kit/
 
 # Is this up to date?
 
+- react v14
 - babel v6 (babel v5 was the one with all the default compilation settings...this specifies plugins/presets)
 - babel-plugin-react-transform v2 (replaces https://github.com/gaearon/react-hot-loader)
