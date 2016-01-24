@@ -1,0 +1,6 @@
+{
+  "extends": "pwmckenna",
+  "globals": {
+    "ga": true
+  }
+}
